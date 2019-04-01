@@ -11,9 +11,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^2.6.0",
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
-    "@nuxtjs/pwa": "^2.6.0"
+    "storyblok-nuxt": "^1.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.4",

@@ -12,7 +12,7 @@
         </nav>
         <a href="/" class="top-header__col top-header__logo">
             <span class="inv">Home</span>
-            <img src="//a.storyblok.com/f/42016/1096x313/0353bf6654/logo2.png" alt="logo">
+            <img src="a.storyblok.com/f/56627/640x137/350bc7d7c8/elismatiq-logo.png" alt="logo">
         </a>
         <nav class="top-header__col top-header_second-navi">
             <ul class="nav">

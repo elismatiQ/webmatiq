@@ -38,6 +38,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/components'
   ],
 
   /*
@@ -45,6 +46,7 @@ export default {
   */
   modules: [
     '@nuxtjs/pwa',
+    ['storyblok-nuxt', {accessToken: 'AIhcuLBa8id8sxmZMy6mswtt', cacheProvider: 'memory'}]
   ],
 
   /*
