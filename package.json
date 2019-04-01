@@ -1,0 +1,26 @@
+{
+  "name": "webmatiQ",
+  "version": "1.0.0",
+  "description": "Design system for eCommerce websites",
+  "author": "David Elisma",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "@nuxtjs/pwa": "^2.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.4",
+    "css-loader": "^2.1.1",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0",
+    "tailwindcss": "^0.7.0"
+  }
+}
