@@ -1,7 +1,7 @@
 <template>
   <div>
     <top-header />
-    <main id="main" role="main">
+    <main id="main" role="main" class="container mx-auto">
       <nuxt />
     </main>
     <bottom-footer />
@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import TopHeader from '../components/TopHeader.vue';
-import BottomFooter from '../components/BottomFooter.vue';
+import TopHeader from '~/components/TopHeader.vue';
+import BottomFooter from '~/components/BottomFooter.vue';
 
 export default {
   components: {
