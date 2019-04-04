@@ -1,6 +1,6 @@
 # webmatiQ
 
-> Design system for eCommerce websites
+> Design system for multilingual eCommerce websites built with Nuxt.js, Storyblok, Tailwind CSS and WET-BOEW components
 
 ## Build Setup
 
